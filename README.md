@@ -6,7 +6,7 @@ Blockchain | Decentralized Digital Identity | Decentralized Finance | Authentic 
 Developer @ Dhiway | Director of Operations @ TPG Karnataka | Mentor @  C4GT
 
 <a href="https://github.com/rithwik0480">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithwik0480&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adibhagavath&show_icons=true&hide_border=true" />
 </a>
 
 # Let's connect
