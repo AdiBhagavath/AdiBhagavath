@@ -5,10 +5,6 @@ Blockchain | Decentralized Digital Identity | Decentralized Finance | Authentic 
 # Designations
 Developer @ Dhiway | Director of Operations @ TPG Karnataka | Mentor @  C4GT
 
-<a href="https://github.com/rithwik0480">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibhagavath&show_icons=true&hide_border=true" />
-</a>
-
 # Let's connect
 [![Gmail Badge](https://img.shields.io/badge/Gmail-adibhagawath@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:adibhagawath@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-adi.bhagavath@dhiway.com-D14836?style=flat-square&logo=gmail)](mailto:adi.bhagavath@dhiway.com)
